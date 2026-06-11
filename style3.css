@@ -98,7 +98,7 @@ header{
  #hero-img{
     height: 85%;
     width: 100%;
-    background-image:url(/assets/heromain.jpg);
+    background-image:url(./assets/heromain.jpg);
     background-position: center;
     background-size: cover;
 
@@ -294,7 +294,7 @@ main{
 .card-img{
    height: 50%;
    width: 100%;
-   background-image: url(/assets/card1.png);
+   background-image: url(./assets/card1.png);
    background-size: cover;
    border-radius: 15px;
 }
@@ -331,7 +331,7 @@ main{
 .card-img2{
    height: 50%;
    width: 100%;
-   background-image: url(/assets/card2.png);
+   background-image: url(./assets/card2.png);
    background-size: cover;
    border-radius: 15px;
 
@@ -340,7 +340,7 @@ main{
 .card-img3{
    height: 50%;
    width: 100%;
-   background-image: url(/assets/card3.png);
+   background-image: url(./assets/card3.png);
    background-size: cover;
    border-radius: 15px;
 
@@ -349,7 +349,7 @@ main{
 .card-img4{
    height: 50%;
    width: 100%;
-   background-image: url(/assets/card4.png);
+   background-image: url(./assets/card4.png);
    background-size: cover;
    border-radius: 15px;
 
@@ -466,7 +466,7 @@ main{
    height: 100%;
    width: 19%;
    border-radius: 21px;
-   background-image: url(/assets/multic1.png);
+   background-image: url(./assets/multic1.png);
    background-position: center;
    background-size: cover;
 }
@@ -475,7 +475,7 @@ main{
    height: 100%;
    width: 19%;
    border-radius: 21px;
-   background-image: url(/assets/multic2.png);
+   background-image: url(./assets/multic2.png);
    background-position: center;
    background-size: cover;
 }
@@ -483,7 +483,7 @@ main{
    height: 100%;
    width: 19%;
    border-radius: 21px;
-   background-image: url(/assets/multic3.png);
+   background-image: url(./assets/multic3.png);
    background-position: center;
    background-size: cover;
 }
@@ -491,7 +491,7 @@ main{
    height: 100%;
    width: 19%;
    border-radius: 21px;
-   background-image: url(/assets/multic4.png);
+   background-image: url(./assets/multic4.png);
    background-position: center;
    background-size: cover;
 }
@@ -499,7 +499,7 @@ main{
    height: 100%;
    width: 19%;
    border-radius: 21px;
-   background-image: url(/assets/multic2.png);
+   background-image: url(./assets/multic2.png);
    background-position: center;
    background-size: cover;
 }
@@ -508,7 +508,7 @@ main{
    height: 450px;
    width: 100%;
    margin-top: 50px;
-   background-image: url(/assets/tukka1.png);
+   background-image: url(./assets/tukka1.png);
    background-position: center;
    background-size: cover;
 }
@@ -665,7 +665,7 @@ main{
 #first-img{
    height: 100%;
    width: 37%;
-   background-image: url(/assets/beforeatm.webp);
+   background-image: url(./assets/beforeatm.webp);
    background-position: center;
    background-size: cover;
    border-radius: 15px;
@@ -682,8 +682,7 @@ main{
 #atm-end h3{
    margin-left: 50px;
    margin-top: 50px;
- 
-}
+ }
 
 #atm-end p{
    margin-top: 10px;
@@ -741,7 +740,3 @@ footer{
    color: #1668e3;
    font-size: small;
 }
-
-
-
-
